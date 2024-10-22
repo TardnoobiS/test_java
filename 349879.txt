@@ -1,3 +1,9 @@
 Test z pierwszego folderu
 
+<<<<<<< HEAD
 <<TEKST Z DRUGIEGO FOLDERU>>
+=======
+
+
+Tekst dodany z galezi test_branch
+>>>>>>> test_branch
